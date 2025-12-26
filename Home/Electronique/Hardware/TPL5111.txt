@@ -1,0 +1,23 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2025-12-26T10:21:41+01:00
+
+====== TPL5111 ======
+
+
+{{~/Bureau/TPL5111.avif?width=128}}       
+
+Timer pour gestion consomation - Watchdog [[../../resume_tpl5111_complet.pdf|TPL5111 Résumer]]
+								   [[../../tpl5111 Datasheet.pdf|Tpl5111 Datasheet.pdf]]
+
+
+{{~/Bureau/Tpl5111 Schematic Exemple.png?width=1000}}
+
+__Valeur des résistances pour Time:__
+
+{{./pasted_image.png?width=800}}
+
+
+Source: 
+
+https://lowpowerlab.com/shop/product/147
